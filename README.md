@@ -24,7 +24,7 @@ To add:
     [] execVM "ElektroQuarantineZone.sqf";
     
 3b.) If you have a custom folder for map addons then you will need to adjust accordingly...
-    [] execVM "YOUR CUSTOM FOLDER NAME HERE\Map_Addons\ChernoQuarantine_Zone.sqf";
+    [] execVM "YOUR CUSTOM FOLDER NAME HERE\ElektroQuarantineZone.sqf";
     
 4.) Be sure to save.  Save.  Save.
 
